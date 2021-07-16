@@ -1,2 +1,2 @@
 # Review_Scrapper
-Can be used to get reviews and corrosponding 
+This web scrapper is used to get reviews and corresponding ratings for the courses available in coursera. The data can be obtained in either a dictionary format or as a data frame. Scrapper.py file contains a python class object called "Scrapper", it's "get_output" method fetches the output in python dictionary format or as a data frame if it is given as a string argument. The data obtained can be used to train NLP models.
